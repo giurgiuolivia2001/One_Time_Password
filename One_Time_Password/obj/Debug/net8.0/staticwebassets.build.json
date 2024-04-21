@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PUHCqQKqXAjccfG4Mh+VU25LVS03hweXIK78/BYaiZ0=",
+  "Source": "One_Time_Password",
+  "BasePath": "_content/One_Time_Password",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
